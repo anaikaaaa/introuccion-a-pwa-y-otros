@@ -7,6 +7,7 @@ import {
 } from "@mui/material";
 
 const MainSection = () => {
+
   const title = "Vos queres crecer.\n Nosotros te queremos ayudar";
   const subtitle =
     "Crea una web con plantillas impecables, fácil edición y sin codificación.";
